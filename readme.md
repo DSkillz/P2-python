@@ -28,7 +28,7 @@ python)
 ## Résultat
 
 Le résultat du scraping sera stocké dans un sous-repertoire 'CSV/' et les images des livres seront stocké 
-dans 'Imgs'
+dans 'Imgs/'
 
 Chaque image extraite sera nommée en fonction de son nom de fichier. On le retrouvera dans la derniere colonne 
 du fichier catégorie.csv  
